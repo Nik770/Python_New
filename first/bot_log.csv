@@ -1,0 +1,5 @@
+2023-02-15 20:23:30,059: INFO _welcome-362 Bot: oh_nikitka_bot [@oh_nikitka_bot]
+2023-02-15 20:23:30,060: INFO start_polling-358 Start polling.
+2023-02-15 20:23:42,081: INFO start_handler-22 user_id=730738999 user_bot=False user_message='/start'
+2023-02-15 20:25:36,433: INFO stop_polling-433 Stop polling...
+2023-02-15 20:25:36,434: WARNING start_polling-329 Goodbye!
